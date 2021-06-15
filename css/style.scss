@@ -1,0 +1,21 @@
+body {
+    // background-color: #0511f2;
+    // background-image: linear-gradient(160deg, #0511f2 0%, #0597f2 100%);
+    .container {
+        display: flex;
+        align-items: center;
+        min-height: 100vh;
+        justify-content: center;
+    
+        h1 {
+            font-size: 100px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-style:oblique;
+          }
+        img {
+            width: 400px;
+            height: 380px;
+        }
+          
+      }
+  }
